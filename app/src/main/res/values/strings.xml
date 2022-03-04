@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Mi Rutina</string>
+
+    <string name="sTipo">Parte del cuerpo a entrenar</string>
+    <string name="sdia">Día de la semana</string>
+    <string name="sEjercicio">Nombre del ejercicio"</string>
+    <string name="sSerie">Series</string>
+    <string name="sRepeticiones">No. de Repeticiones</string>
+
+    <string name="sEditar">Editar</string>
+    <string name="sBorrar">Borrar</string>
+    <string name="sAgregar">Agregar</string>
+    <string name="sActualizar">Actualizar</string>
+    <string name="sNoReg">No existe Rutina Cargada</string>
+
+    <string name="sConfirmacion">Confirmación</string>
+    <string name="sMsgC">¿Deseas eliminar el ejercicio?</string>
+    <string name="sMsgBorrado">Ha sido eliminado</string>
+
+    <string name="sUpOk">Registro actualizado</string>
+    <string name="sUpError">Error al actualizar el registro</string>
+    <string name="sUpVal">No puede haber campos vacíos</string>
+
+    <string name="sInOk">Registro guardado</string>
+    <string name="sInError">Error al insertar el registro</string>
+
+
+
+
+    <string name="opc1">Pecho</string>
+    <string name="opc2">Espalda</string>
+    <string name="opc3">Biceps</string>
+    <string name="opc4">Triceps</string>
+    <string name="opc5">Abdomen</string>
+    <string name="opc6">Pierna</string>
+    <string name="opc7">Hombro</string>
+
+    <string-array name="opcionesSpinner">
+        <item>@string/opc1</item>
+        <item>@string/opc2</item>
+        <item>@string/opc3</item>
+        <item>@string/opc4</item>
+        <item>@string/opc5</item>
+        <item>@string/opc6</item>
+        <item>@string/opc7</item>
+    </string-array>
+
+    <string name="sD1">Lunes</string>
+    <string name="sD2">Martes</string>
+    <string name="sD3">Miércoles</string>
+    <string name="sD4">Jueves</string>
+    <string name="sD5">Viernes</string>
+    <string name="sD6">Sábado</string>
+    <string name="sD7">Domingo</string>
+
+    <string-array name="opcionesSpinnerDia">
+        <item>@string/sD1</item>
+        <item>@string/sD2</item>
+        <item>@string/sD3</item>
+        <item>@string/sD4</item>
+        <item>@string/sD5</item>
+        <item>@string/sD6</item>
+        <item>@string/sD7</item>
+    </string-array>
+
+
+</resources>
